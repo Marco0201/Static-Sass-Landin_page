@@ -1,1 +1,1 @@
-# Static-Sass-Landin_page
+# Static-Sass-Landing_page
